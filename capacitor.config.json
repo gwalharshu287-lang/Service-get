@@ -1,0 +1,6 @@
+{
+  "appId": "com.servimate.app",
+  "appName": "ServiMate",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

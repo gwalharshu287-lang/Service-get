@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of ServiMate - Local Pros",
+  "description": "Connect with top-rated local professionals for home repairs, services, and more. Powered by AI matchmaking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
